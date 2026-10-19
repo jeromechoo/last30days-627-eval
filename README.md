@@ -2,7 +2,7 @@
 
 > "If you can show measured coverage Diffbot finds that Serper and Brave miss on the same topics, please open an issue with those numbers." - @iliaal
 
-This is a follow-up to PR #627 which adds Diffbot Knowledge Graph as a news source but was closed due to unclear evidence of efficacy.
+This is a follow-up to PR #627 which adds Diffbot Knowledge Graph as a news source but was closed due to unclear evidence of efficacy. This issue reviews the results of an eval that puts Diffbot News head to head against Brave and Serper for news coverage. The eval results show that Diffbot news adds 72%+ more on-topic news coverage than the incumbents (Brave/Serper) and adding it should vastly improve last30days' capability to cover news.
 
 Disclosure: I work at Diffbot. The harness, raw results and every relevance label are attached so you can audit or re-run all of it (contact me for a Diffbot token). This issue is written by me, the eval was written and results tabulated by Opus 5.5.
 
